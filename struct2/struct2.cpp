@@ -36,4 +36,4 @@ int main()
 	cout << "\nKota = " << mhs.Alamat.Kota;
 	cout << "\nUmur = " << mhs.umur;
 }
- 
+  
