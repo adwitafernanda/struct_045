@@ -28,4 +28,4 @@ int main()
 	cout << "\nAlamat = " << mhs.Alamat;
 	cout << "\nUmur = " << mhs.umur;
 
-}
+} 
